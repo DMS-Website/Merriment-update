@@ -86,6 +86,11 @@
 	.hotel_booking_table {
 		padding: 28px 15px 15px;
 	}
+
+	.hotel_booking_table h2{
+		padding-left: 30px;
+	}
+
 	.banner_area {
 		display: block;
 	}
