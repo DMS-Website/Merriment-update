@@ -1121,6 +1121,7 @@ main {
 }
 
 .row {
+
     display: -ms-flexbox;
     display: flex;
     justify-content: center;
@@ -1129,12 +1130,19 @@ main {
     margin-right: -15px;
     margin-left: -15px;
 }
+
+
+
+
 .d_flex {
     display: flex;
 }
 
 .about_content {
     padding-right: 60px;
+    border: solid #ef6413;
+    padding: 60px;
+    border-radius: 10px;
 }
 .title {
     font-size: 36px;
